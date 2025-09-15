@@ -8,7 +8,6 @@ For security, you must provide your **own API keys**
 - Authenticate with Reddit using the official API  
 - Connect to the OpenAI API (e.g., GPT-4.1-mini)  
 - Run inside R/Shiny with an interactive interface  
-- Keep secrets safe using environment variables  
 
 ---
 
