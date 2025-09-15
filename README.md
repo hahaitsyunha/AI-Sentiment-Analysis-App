@@ -1,8 +1,7 @@
 # Reddit + ChatGPT Shiny App
 
 This Shiny app connects to Reddit and the OpenAI API to analyze or respond to Reddit posts.  
-To protect security, you must provide your **own API keys** — the app will not run with hardcoded secrets.
-
+For security, you must provide your **own API keys**
 ---
 
 ## Features
