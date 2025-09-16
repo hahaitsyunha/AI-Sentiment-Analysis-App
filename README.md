@@ -1,6 +1,6 @@
 # Sentimental Analysis R Shiny App
 
-This Shiny app connects to Reddit and the OpenAI API to analyze or respond to Reddit posts.  
+This app uses the Reddit and the OpenAI API to analyze or respond to Reddit posts.  
 In order for reproducability, you must provide your **own API keys**.
 
 ---
